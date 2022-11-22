@@ -1,0 +1,26 @@
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\appsettings.json
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\Computer maintenance.staticwebassets.runtime.json
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\Computer maintenance.exe
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\Computer maintenance.deps.json
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\Computer maintenance.runtimeconfig.json
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\Computer maintenance.dll
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\bin\Debug\net6.0\Computer maintenance.pdb
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.csproj.AssemblyReference.cache
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.RazorAssemblyInfo.cache
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.RazorAssemblyInfo.cs
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\scopedcss\bundle\Computer maintenance.styles.css
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\scopedcss\projectbundle\Computer maintenance.bundle.scp.css
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.dll
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\refint\Computer maintenance.dll
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.pdb
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\Computer maintenance.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\Computer maintenance\Computer maintenance\obj\Debug\net6.0\ref\Computer maintenance.dll
